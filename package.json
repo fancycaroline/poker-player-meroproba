@@ -9,7 +9,7 @@
         "build": "./node_modules/.bin/typings i && ./node_modules/.bin/tsc -p ./"
     },
     "dependencies": {
-        "express": "4.14.0",
+        "express": "4.19.2",
         "body-parser": "1.15.2",
         "typings": "latest",
         "typescript": "^1.8.10"
